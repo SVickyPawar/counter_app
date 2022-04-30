@@ -15,5 +15,5 @@ Double: No get doubled.
 
 # Glimpse of our Website-
 ## Landing Page
-<img src="https://ibb.co/k0wS4c1"></img>
+![counter](https://user-images.githubusercontent.com/97332040/166095957-5ee520bd-80d2-4c8a-afc5-c05776efca5c.png)
 
